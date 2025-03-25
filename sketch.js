@@ -10,7 +10,7 @@ function draw() {
   rect(0, height - s, s, s);
   rect(width - s, 0, s, s);
   rect(width - s, height - s, s, s);
-  textSize(100);
+  textSize(50);
   textAlign("center");
   text("Chiara", width / 2, height / 2);
 }
